@@ -43,6 +43,26 @@ El proyecto requiere un formato especifico, el cual debe ser desarrollado con pr
 
 ### **Descripcion del proyecto**
 
+<details>
+ <summary>Aprendizajes</summary>
+ <p></p>
+</details>
+
+<details>
+ <summary>Logros</summary>
+ <p>.</p>
+</details>
+ 
+<details>
+ <summary>Experiencias</summary>
+ <p></p>
+</details>
+
+<details>
+ <summary>Competencias identificadas</summary>
+ <p></p>
+</details>
+
 
 
 
